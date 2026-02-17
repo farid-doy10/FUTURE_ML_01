@@ -70,6 +70,7 @@ These features help capture trend and seasonality.
 ### 3️⃣ Forecasting Model
 
 Model Used:
+HistGradientBoostingRegressor (Scikit-learn)
 
 Why this model?
 - Works well on structured tabular data
