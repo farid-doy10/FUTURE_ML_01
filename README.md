@@ -1,7 +1,4 @@
-# FUTURE_ML_01 — Sales & Demand Forecasting (Machine Learning Internship Task)
-
-## 👨‍💻 Program
-Future Interns — Machine Learning Track (ML)
+# Sales & Demand Forecasting 
 
 This repository contains my implementation for **Machine Learning Task 1**, focused on building a **business-oriented sales forecasting system** using historical time-series data.
 
@@ -117,7 +114,7 @@ This forecasting system can help businesses:
 
 ## 📂 Repository Structure
 
-FUTURE_ML_01/
+Sales & Demand Forecasting/
 ├── notebooks/
 │ └── Task1_StoreSales_Forecast.ipynb
 ├── outputs/
@@ -165,15 +162,9 @@ notebooks/Task1_StoreSales_Forecast.ipynb
 
 ---
 
-## ✨ Internship Submission
-
-This project is part of the **Future Interns Machine Learning Internship**.
-
-Track Code: **ML**  
-Task: **FUTURE_ML_01**
 
 ---
 
 ## 👤 Author
 
-Machine Learning Intern — Future Interns Program
+Ahmed Farid Al Basir
